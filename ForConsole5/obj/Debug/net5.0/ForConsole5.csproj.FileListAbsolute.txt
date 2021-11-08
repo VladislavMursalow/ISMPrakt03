@@ -1,0 +1,15 @@
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.AssemblyInfoInputs.cache
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.AssemblyInfo.cs
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.csproj.CoreCompileInputs.cache
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.exe
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.deps.json
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.runtimeconfig.json
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.runtimeconfig.dev.json
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.dll
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ref\ForConsole5.dll
+C:\Study\SIC\ISMPrakt03\ForConsole5\bin\Debug\net5.0\ForConsole5.pdb
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.dll
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ref\ForConsole5.dll
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.pdb
+C:\Study\SIC\ISMPrakt03\ForConsole5\obj\Debug\net5.0\ForConsole5.genruntimeconfig.cache

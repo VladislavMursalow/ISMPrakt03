@@ -1,0 +1,15 @@
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.exe
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.deps.json
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.runtimeconfig.json
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.runtimeconfig.dev.json
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.dll
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\ref\DoWhileConsole1.dll
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\bin\Debug\net5.0\DoWhileConsole1.pdb
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.AssemblyInfoInputs.cache
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.AssemblyInfo.cs
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.csproj.CoreCompileInputs.cache
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.dll
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\ref\DoWhileConsole1.dll
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.pdb
+C:\Study\SIC\ISMPrakt03\DoWhileConsole1\obj\Debug\net5.0\DoWhileConsole1.genruntimeconfig.cache
