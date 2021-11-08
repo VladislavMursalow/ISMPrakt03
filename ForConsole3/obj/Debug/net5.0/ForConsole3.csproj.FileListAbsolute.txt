@@ -1,0 +1,32 @@
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.exe
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.deps.json
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.runtimeconfig.json
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.runtimeconfig.dev.json
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.dll
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ref\ForConsole3.dll
+C:\Study\SIC\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.pdb
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.csproj.AssemblyReference.cache
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.AssemblyInfoInputs.cache
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.AssemblyInfo.cs
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.csproj.CoreCompileInputs.cache
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.dll
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ref\ForConsole3.dll
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.pdb
+C:\Study\SIC\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.genruntimeconfig.cache
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.exe
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.deps.json
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.runtimeconfig.json
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.runtimeconfig.dev.json
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.dll
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ref\ForConsole3.dll
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\bin\Debug\net5.0\ForConsole3.pdb
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.csproj.AssemblyReference.cache
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.AssemblyInfoInputs.cache
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.AssemblyInfo.cs
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.csproj.CoreCompileInputs.cache
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.dll
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ref\ForConsole3.dll
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.pdb
+C:\Study\SIC\Новая папка\ISMPrakt03\ForConsole3\obj\Debug\net5.0\ForConsole3.genruntimeconfig.cache
